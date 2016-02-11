@@ -1,4 +1,4 @@
-# docker-flask-example test push
+# docker-flask-example
 A generic python/Flask app with a Docker file
 
 # Getting started with Docker
